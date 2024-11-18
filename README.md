@@ -8,17 +8,23 @@ Trend Analysis: Investigate the growth or decline of fraud incidents over time.
 Geographical Insights: Explore regional variations in fraud occurrences across provinces.
 Demographic Vulnerability: Identify age and gender groups most affected by fraud.
 Financial Impact: Determine which fraud types cause the greatest financial losses and how these losses have evolved.
-Dataset Information
+
+
+## Dataset Information
 Source: Canadian Anti-Fraud Centre
 Size: 61.1 MB
 Records: 285,855
-Key Columns:
+
+
+## Key Columns:
 Gender
 Age Range
 Province
 Fraud Type
 Dollar Loss
-Methodology
+
+
+## Methodology
 Data cleaning and outlier removal.
 Exploratory Data Analysis (EDA) using Python.
 Trends, geographical distributions, and demographic analyses with visualizations.
